@@ -45,3 +45,7 @@ Com esses passos concluídos, basta inicializar o servidor e abrir no seu navega
 
 A página irá mostrar a interface do gerenciador de tarefas, pronta para uso.
 > Obs: dentro do arquivo _hibernate.cfg.xml_ a propriedade _hibernate.hbm2ddl.auto_ está no modo _create_, o que significa que uma nova tabela vazia será gerada sempre que o servidor for reinicializado. Para manter os dados após iniciá-lo pela primeira vez, basta alterar essa propriedade para o modo _update_.
+
+Desenvolvido por João Victor da Silva Saturnino.
+Para dúvidas ou sugestões, enviar e-mail para o seguinte endereço:
+> joaovictor.saturnino1@gmail.com
