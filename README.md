@@ -40,6 +40,7 @@ Feito isso, basta clonar o projeto e adicionar ele à IDE como um _Existing Mave
 O último passo consiste em acessar o arquivo _hibernate.cfg.xml_ e alterar as propriedades de url de conexão, nome de usuário e senha, preenchendo estas com os dados de acesso ao banco que você anteriormente criou. 
 Com esses passos concluídos, basta inicializar o servidor e abrir no seu navegador o seguinte endereço:
 > localhost:{porta_configurada_no_tomcat}/Taskmanager/pages/index.xhtml
+
 > Exemplo: localhost:8085/Taskmanager/pages/index.xhtml
 
 A página irá mostrar a interface do gerenciador de tarefas, pronta para uso.
