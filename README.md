@@ -1,12 +1,12 @@
 # Gerenciador de tarefas
 ## O projeto 
 O presente projeto é um simples sistema de gerenciamento de tarefas, parte do processo seletivo de ingresso no Grupo **ESIG**. O sistema consiste em uma simples _single page application_ que é capaz de executar as seguintes funcionalidades: 
-- Criar de uma tarefa
-- Listar das tarefas criadas
+- Criar uma tarefa
+- Listar tarefas criadas
 - Atualizar (editar) tarefas
 - Excluir tarefas
 >Possuindo esta tarefa as seguintes características:
-> - Título
+>  - Título
 >  - Descrição
 >  - Número
 >  - Responsável 
